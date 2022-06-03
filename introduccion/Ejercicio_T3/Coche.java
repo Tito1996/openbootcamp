@@ -1,3 +1,5 @@
+package Ejercicio_T3;
+
 public class Coche {
 
     public int puertas;

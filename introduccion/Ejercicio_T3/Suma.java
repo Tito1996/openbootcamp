@@ -1,3 +1,5 @@
+package Ejercicio_T3;
+
 class Suma {
     
     public static void main(String[] args) {
